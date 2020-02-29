@@ -1,8 +1,4 @@
 ## Installation
-Clone the repo:
-```shell
-git clone https://github.com/rehmatworks/stisla-laravel.git
-```
 
 Install composer packages:
 ```shell
