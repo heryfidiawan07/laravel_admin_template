@@ -10,9 +10,16 @@
 		<li class="active">
 			<a class="nav-link" href="#"><i class="fa fa-columns"></i> <span>Dashboard</span></a>
 		</li>
-		<li class="menu-header">Users</li>
-		<li class="">
-			<a class="nav-link" href="#"><i class="fa fa-users"></i> <span>Users</span></a>
+		<li class="menu-header">Template</li>
+		<li class="dropdown">
+			<a href="#" class="nav-link has-dropdown" data-toggle="dropdown"><i class="fas fa-columns"></i> <span>Layout</span></a>
+			<ul class="dropdown-menu">
+				<li><a class="nav-link" href="/home">Home</a></li>
+				<li><a class="nav-link" href="/index">Index</a></li>
+				<li><a class="nav-link" href="/show">Show</a></li>
+				<li><a class="nav-link" href="/page">Page</a></li>
+				<li><a class="nav-link" href="/domain">Domain</a></li>
+			</ul>
 		</li>
 	</ul>
 </aside>

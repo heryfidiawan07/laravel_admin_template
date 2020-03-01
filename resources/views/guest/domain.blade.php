@@ -1,15 +1,13 @@
-@extends('layouts.app-admin')
+@extends('layouts.app-guest')
 
 @section('title')
-Dashboard
+DOMAIN
 @endsection
 
 @section('content')
 <section class="section">
-	<div class="section-header">
-		<h1>Dashboard</h1>
-	</div>
 	<div class="section-body">
+		<p>ceritaku.com / kisahku.com / curhatan.com</p>
 	</div>
 </section>
 @endsection

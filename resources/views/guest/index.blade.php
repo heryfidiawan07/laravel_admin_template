@@ -1,15 +1,13 @@
-@extends('layouts.app-admin')
+@extends('layouts.app-guest')
 
 @section('title')
-Dashboard
+INDEX
 @endsection
 
 @section('content')
 <section class="section">
-	<div class="section-header">
-		<h1>Dashboard</h1>
-	</div>
 	<div class="section-body">
+		<h1>INDEX</h1>
 	</div>
 </section>
 @endsection
